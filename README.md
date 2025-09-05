@@ -1,4 +1,4 @@
-# unimind
+# Unimind
 
 A new Flutter project.
 
